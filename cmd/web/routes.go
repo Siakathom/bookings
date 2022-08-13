@@ -4,7 +4,6 @@ import (
 	"net/http"
 	"github/Siakathom/bookings/pkg/config"
 	"github/Siakathom/bookings/pkg/handlers"
-
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 )
